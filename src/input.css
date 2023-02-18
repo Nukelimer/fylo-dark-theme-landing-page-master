@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+
+.l{
+    background:hsl(219, 30%, 18%)
+}
